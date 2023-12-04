@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
   [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>](https://www.linkedin.com/in/daniel-tunjano)
   [<img src="https://img.shields.io/static/v1?message=mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />](mailto:danieltb92@hotmail.com)
-  [<img src="https://img.shields.io/static/v1?message=website&logo=&label=&color=00b2ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />](https://danieltunjano.super.site/)
+  [<img src="https://img.shields.io/static/v1?message=website&logo=&label=&color=00b2ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />](https://daniel-tunjano.onrender.com/)
 
 </div>
 
