@@ -78,6 +78,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
   height="30" alt="tailwind logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" 
+  height="30" alt="tailwind logo"  />
+  <img width="12" />
   
   
 </div>
