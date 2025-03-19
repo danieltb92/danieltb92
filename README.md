@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">Hola👋, soy Daniel Tunjano </h1>
+<h1 align="center">Hi👋, It's Daniel Tunjano </h1>
 
 ###
 
@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"><b>Soy diseñador UI/UX y desarrollador</b>, poseo habilidades tanto en diseño como en desarrollo, lo que me permite crear soluciones digitales efectivas y centradas en el usuario. Mi pasión por el diseño y la tecnología me permite crear interfaces en diferentes plataformas que son atractivas y fáciles de usar, lo que mejora la experiencia del usuario.</p>
+<!--<p align="left"><b>Soy diseñador UI/UX y desarrollador</b>, poseo habilidades tanto en diseño como en desarrollo, lo que me permite crear soluciones digitales efectivas y centradas en el usuario. Mi pasión por el diseño y la tecnología me permite crear interfaces en diferentes plataformas que son atractivas y fáciles de usar, lo que mejora la experiencia del usuario.</p>-->
+
+<p align="left"><b>I'm a UI/UX designer and developer, with skills in both design and development, allowing me to create effective, user-centric digital solutions. My passion for design and technology allows me to create engaging and easy-to-use interfaces across different platforms, enhancing the user experience.</p>
 
 ###
 
